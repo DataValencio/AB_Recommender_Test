@@ -1,4 +1,4 @@
-## 🎯 Objetivo do Projeto
+## Objetivo do Projeto
 
 Este projeto foi dividido em duas etapas complementares com o objetivo de simular desafios reais enfrentados por analistas de dados:
 
